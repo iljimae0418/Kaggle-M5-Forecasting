@@ -1,0 +1,1 @@
+- Conv1D_7_day: scored 1.25 on public leaderboard. 
